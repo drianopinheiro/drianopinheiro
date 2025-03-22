@@ -1,10 +1,20 @@
-# 🐱‍👤 Adriano Pinheiro
-
-**`Futuro Desenvolvedor FullStack`**
+<div align="center" style="text-align: center;">
+<h1 style="text-decoration: none;">Adriano Pinheiro</h1>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<div align="center" style="text-align: center;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=5E42F7&width=435&lines=%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub!;%F0%9F%93%8C+%C3%81reas+de+interesse%3A+;%F0%9F%9A%80+Full+Stack+Developer;+Sinta-se+%C3%A0+vontade+para+explorar;Meus+reposit%C3%B3rios+%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>
+
+<div align="center" style="text-align: center;">
+<h1>🤖Linguagens e Tecnologias</h1>
+</div>
+
+---
+
+
 
 <img 
     align="left" 
